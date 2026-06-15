@@ -15,7 +15,7 @@ The building features a sophisticated architectural design with the following ke
 
 ## 3D View
 
-<!-- ADD 3D VIEW FROM GITHUB HERE -->
+<img width="1663" height="783" alt="3D_view" src="https://github.com/user-attachments/assets/1e01ee0d-4213-47dd-89f9-c7803375bbdc" />
 
 ## Repository Contents
 
