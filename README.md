@@ -13,6 +13,10 @@ The building features a sophisticated architectural design with the following ke
   - The 2D floor plans include detailed structural walls and door swings.
   - The 3D views showcase both the internal structural framework and the fully roofed exterior, complete with balconies.
 
+## 3D View
+
+<!-- ADD 3D VIEW FROM GITHUB HERE -->
+
 ## Repository Contents
 
 - `Building Project Tashfin.dwg`: The primary AutoCAD drawing file containing the 2D and 3D models.
